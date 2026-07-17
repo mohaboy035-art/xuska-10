@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="so">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sawirrada | ZEIN Fitness</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+
+    <h1>ZEIN FITNESS</h1>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="contact.html">Contacts</a></li>
+        </ul>
+    </nav>
+
+</header>
+
+<div class="about-home">
+
+    <h2>Sawirrada Gym-ka</h2>
+    <p>Hoos waxaa ku yaal qaar ka mid ah sawirrada ZEIN Fitness.</p>
+
+</div>
+
+<div class="gallery">
+
+    <img src="Gym1.png" alt="Gym 1">
+
+    <img src="Gym2.png" alt="Gym 2">
+
+    <img src="Gym3.png" alt="Gym 3">
+
+    <img src="Gym4.png" alt="Gym 4">
+
+</div>
+
+<footer>
+
+    <p>© 2026 ZEIN Fitness.</p>
+
+</footer>
+
+</body>
+</html>
